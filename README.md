@@ -9,7 +9,7 @@ End-to-end online retail project starting with SQL for data cleaning and prepara
 This project is a comprehensive analysis of an online retail dataset spanning 2009 to 2011, designed to demonstrate the full data workflow from raw data to actionable insights.
 - SQL was used to clean, preprocess, and flag anomalies in over 500K+ transaction records.
 - Python (Machine Learning) was applied to perform customer churn prediction using Recency, Frequency, and Monetary Values (RFM) features and a Random Forest Classifier, achieving 100% accuracy on the test set.
-- Power BI was used to design interactive dashboards for stakeholders, delivering clear KPIs, trend analyses, and operational recommendations.
+- Power BI was used to design interactive dashboards for stakeholders, delivering clear KPIs, trend analysis, and operational recommendations.
 
 The skills highlighted throughout this project include data cleaning, exploratory analysis, predictive modeling, and data storytelling.
 

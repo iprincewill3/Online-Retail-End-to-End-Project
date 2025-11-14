@@ -404,8 +404,8 @@ From the heatmap:
 - False Negative (FN) - the number of churned customers that were wrongly predicted as active is 0
 
 In the classification report:
-- Precision - this was 100%, indicating that out of 468 customers who were predicted to have churned, all of them actually churned, and there were no false positives.
-- Recall or Sensitivity - this was also 100%, indicating that out of the 468 customers that churned, all of them were correctly identified, and there were no false negatives.
+- Precision - this was 100%, indicating that out of 467 customers who were predicted to have churned, all of them actually churned, and there were no false positives.
+- Recall or Sensitivity - this was also 100%, indicating that out of the 467 customers that churned, all of them were correctly identified, and there were no false negatives.
 
 Using the Receiver Operating Characteristic (ROC) Curve to assess the accuracy of the model, considering that the model was deployed for a binary classification problem;
 

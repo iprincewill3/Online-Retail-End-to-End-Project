@@ -398,10 +398,10 @@ plt.show()
 ![](python_ml_confusion_matrix_heatmap.png)
 
 From the heatmap:
-- True Negative - the number of actual active customers (who did not churn), that were correctly predicted as active customers is 706
-- False Positive - the number of active customers that were wrongly predicted as churned is 0
-- True Positive - the number of actual churned customers that were correctly predicted as churned customers is 467.
-- False Positive - the number of churned customers that were wrongly predicted as active is 0
+- True Negative (TN) - the number of actual active customers (who did not churn), that were correctly predicted as active customers is 706
+- False Positive (FP) - the number of active customers that were wrongly predicted as churned is 0
+- True Positive (TP) - the number of actual churned customers that were correctly predicted as churned customers is 467.
+- False Negative (FN) - the number of churned customers that were wrongly predicted as active is 0
 
 In the classification report:
 - Precision - this was 100%, indicating that out of 468 customers who were predicted to have churned, all of them actually churned, and there were no false positives.
